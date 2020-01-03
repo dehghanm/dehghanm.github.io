@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Mahdi</strong> Dehghan
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -16,7 +16,9 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Mahdi Dehghan and I recently graduated with a master’s degree in Artificial Intelligence Engineering from Shahid Beheshti University under the suppervision of [Dr. Ahmad Ali Abins](http://facultymembers.sbu.ac.ir/abin/){:target="\_blank"}.
+
+My research interests include information retrieval, machine learning techniques in both textual and non-textual data, recommender systems, social networks, and natural language processing.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
