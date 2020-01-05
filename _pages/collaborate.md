@@ -2,7 +2,6 @@
 layout: page
 permalink: /collaborate
 title: collaborate
-url: mahdi dehghan
 description:
 ---
 Are you interested in collaboration with me?
