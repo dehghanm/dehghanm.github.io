@@ -2,7 +2,6 @@
 layout: about
 permalink: /
 title: <strong>Mahdi</strong> Dehghan
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
