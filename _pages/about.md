@@ -11,7 +11,7 @@ profile:
     <p>mah.dehghan@sbu.ac.ir</p>
     <p>mahdi.dehghan551@gmail.com</p>
 
-news: true
+news: false
 social: true
 ---
 
