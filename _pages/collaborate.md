@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /collaborate
-title: Collaborate
+title: collaborate
 description:
 ---
 Are you interested in collaboration with me?
