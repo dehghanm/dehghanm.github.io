@@ -6,4 +6,4 @@ description: Publications by categories in reversed chronological order. Generat
 years: [1956, 1950, 1935, 1905]
 ---
 
-- 
+- einstein1956investigations
