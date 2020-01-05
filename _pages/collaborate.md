@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /collaborate
 title: Collaborate
 description:
 ---
