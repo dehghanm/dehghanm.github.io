@@ -3,7 +3,7 @@ layout: about
 permalink: /
 title: <strong>Mahdi</strong> Dehghan
 name: /mahdi
-url: /
+url: /mahdi
 
 profile:
   align: right
