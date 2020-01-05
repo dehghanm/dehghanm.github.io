@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /collaborate
-title: collaborate
+title: Mahdi Dehghan
 description:
 ---
 Are you interested in collaboration with me?
