@@ -2,6 +2,8 @@
 layout: about
 permalink: /
 title: <strong>Mahdi</strong> Dehghan
+name: /
+url: /
 
 profile:
   align: right
