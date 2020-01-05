@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /collaborate
-title: Mahdi Dehghan
+permalink: /
+title: Collaborate
 description:
 ---
 Are you interested in collaboration with me?
