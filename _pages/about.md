@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Mahdi</strong> Dehghan
-site_name: mahdi
+name: mahdi
 
 profile:
   align: right
